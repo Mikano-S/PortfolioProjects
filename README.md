@@ -85,5 +85,6 @@ A big thank you to Aleksandr for making that content publicly available. Great w
 # Contact
 
 E-mail: sabanovicmirnes99@gmail.com <br />
-LinkedIn: (link)
+LinkedIn: https://www.linkedin.com/in/mirnes-sabanovic/
+
 
